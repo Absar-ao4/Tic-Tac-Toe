@@ -20,3 +20,4 @@ This repository contains a simple yet engaging Tic-Tac-Toe game built using Andr
 To run this project on your local machine:
 1. Clone this repository:
    git clone  https://github.com/Absar-ao4/Tic-Tac-Toe.git
+2. Start the coding.
